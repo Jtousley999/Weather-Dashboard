@@ -1,0 +1,92 @@
+.displayQuery {
+  display: none;
+}
+
+body {
+  background-color: lightcyan;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: darkgray;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.firstButtonStyle {
+  background-color: darkblue;
+  color: white;
+  font-weight: bolder;
+  border: 1px solid black;
+}
+
+.jumbotronStyle {
+  min-height: 350px;
+  background-color: white;
+  text-align: center;
+  padding: 25px;
+}
+
+.listStyle {
+  margin-top: 30px;
+  background-color: lightblue;
+}
+
+.itemStyle {
+  text-align: center;
+  border: 2px solid blue;
+}
+
+.backGround {
+  background-color: lightskyblue;
+}
+
+.cityName {
+  color: darkblue;
+}
+
+.red {
+  background-color: red;
+  display: inline-block;
+  color: white;
+  padding: 5px;
+}
+.green {
+  background-color: green;
+  display: inline-block;
+  color: white;
+  padding: 5px;
+}
+.yellow {
+  background-color: yellow;
+  display: inline-block;
+  color: black;
+  padding: 10px;
+}
+
+#cardSection {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.cardStyle {
+  float: left;
+  margin: 20px;
+  padding: 20px;
+}
+.card-header {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.buttonStyle {
+  border: none;
+  background-color: blue;
+  font-size: 20px;
+  padding: 15px;
+  width: 100%;
+  color: white;
+  font-weight: bolder;
+}
